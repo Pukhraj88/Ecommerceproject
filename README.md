@@ -5,7 +5,7 @@ A modern full-stack E-commerce application with customer management, modern ui, 
 ## 🔗 Live Demo
 https://sparkling-druid-e40f86.netlify.app/
 👉 [View Live Site](https://sparkling-druid-e40f86.netlify.app/)
-
+ 
 
 ## 📸 Preview
 <img width="1280" height="1024" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/3da5c755-ebd9-4fd8-a5e8-f47879927448" />
