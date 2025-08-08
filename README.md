@@ -3,7 +3,7 @@
 A modern full-stack E-commerce application with customer management, modern ui, and secure admin functionality.
 
 ## 🔗 Live Demo
-https://pukhraj-ecom.netlify.app/
+https://sparkling-druid-e40f86.netlify.app/
 👉 [View Live Site](https://sparkling-druid-e40f86.netlify.app/)
 
 
@@ -12,11 +12,13 @@ https://pukhraj-ecom.netlify.app/
 
 
 ## 🛠️ Mobile View
+![2Image 2025-08-08 at 11 46 23_9d340413](https://github.com/user-attachments/assets/59219c65-c9cf-4617-8b4c-d31db368fb6e)
+![1Image 2025-08-08 at 11 46 22_ddbc1ecb](https://github.com/user-attachments/assets/4260b569-febd-4e53-a504-755ac27dd6c3)
 
 
 
 ## 🔗 Live Demo
-https://pukhraj-ecom.netlify.app/
+https://sparkling-druid-e40f86.netlify.app/
 👉 [View Live Site](https://sparkling-druid-e40f86.netlify.app/)
 
 
