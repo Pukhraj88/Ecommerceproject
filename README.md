@@ -8,7 +8,14 @@ https://sparkling-druid-e40f86.netlify.app/
 
 
 ## 📸 Preview
+<img width="1280" height="1024" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/3da5c755-ebd9-4fd8-a5e8-f47879927448" />
+<img width="1280" height="1024" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/45aea132-1bbe-41bf-99f8-89978192f9db" />
 
+<img width="1280" height="1024" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/e532b6a2-f57c-4831-bbce-583c21d2b267" />
+<img width="1280" height="1024" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/d72488dc-d2ec-471f-a0f9-a5a16dd986a9" />
+
+## 🛠️ Admin Panel View
+<img width="1280" height="1024" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/f9cabb91-c91e-4dec-862f-59c33e3aaf9c" />
 
 
 ## 🛠️ Mobile View
@@ -30,10 +37,14 @@ https://sparkling-druid-e40f86.netlify.app/
 
 ## 📦 Features
 
-- ✅ Fully responsive modern UI with smooth animations
-- ✅ User registration and login functionality (authentication)
-- ✅ Add to cart, view cart, and checkout experience
-- ✅ Admin panel with secure login
-- ✅ Manage and track product stock (cement, soil, bricks, etc.)
-- ✅ Customer account and order management system
-- ✅ Seamless product browsing and filtering
+- ✅ **Modern Grid Layout** – With subtle line patterns and animated UI elements  
+- ✅ **Fully Responsive Modern UI** – Tailwind CSS + Framer Motion animations  
+- ✅ **User Authentication** – Registration, login, and secure JWT-based sessions  
+- ✅ **Role-Based Access** – Separate User & Admin dashboards  
+- ✅ **Add to Cart & Checkout** – Seamless cart management with quantity updates  
+- ✅ **Admin Panel** – Add, edit, and delete products; manage orders and users   
+- ✅ **Product Browsing & Filtering** – Search, category filters, and sorting  
+- ✅ **Low Stock Alerts** – Animated notifications for admins and users  
+- ✅ **Toast Notifications** – For success, error, and info messages  
+- ✅ **Secure Backend API** – Built with Express, MongoDB 
+- ✅ **Mobile Optimized** – Smooth mobile navigation with animated menus  
