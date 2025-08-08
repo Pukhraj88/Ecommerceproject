@@ -1,0 +1,38 @@
+  
+.cart-button {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  background-color: white;
+  padding: 1rem;
+  border-radius: 9999px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+/* Responsive alignment within .owncontainer max widths */
+@media (min-width: 576px) {
+  .cart-button {
+    right: calc((100vw - 720px) / 2 + 1rem);
+  }
+}
+
+@media (min-width: 992px) {
+  .cart-button {
+    right: calc((100vw - 1050px) / 2 + 1rem);
+  }
+}
+
+/* hero section stroke */
+.text-stroke {
+  -webkit-text-stroke: 1px white; /* Width and color of stroke */
+}
+
+
+
+/* nav section part */
+@font-face {
+  font-family: 'Harmonia Sans';
+  src: url('/fonts/HarmoniaSans.woff2') format('woff2'),
+       url('/fonts/HarmoniaSans.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

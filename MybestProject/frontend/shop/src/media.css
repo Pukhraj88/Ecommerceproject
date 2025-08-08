@@ -1,0 +1,64 @@
+/* @media (max-width: 575px) {
+  .container {
+    margin: auto;
+    max-width: 540px;
+    padding: 0;
+    background-color: hsl(0, 0%, 94%); 
+  }
+}
+@media (min-width: 576px) and (max-width: 991px) {
+  .container {
+    margin: auto;
+    max-width: 720px;
+    padding: 0;
+    background-color: hsl(0, 0%, 94%);
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    margin: auto;
+    max-width: 1050px;
+    padding: 0;
+    background-color: hsl(0, 0%, 94%);
+  }
+} */
+
+
+
+
+
+
+
+/* nab bar configuration  */
+@media (max-width: 575px) {
+  .owncontainer {
+    margin: auto;
+    max-width: 540px;
+    padding: 0;
+    /* background-color: hsl(0, 0%, 94%);  */
+    
+  }
+}
+@media (min-width: 576px) and (max-width: 991px) {
+  .owncontainer {
+    margin: auto;
+    max-width: 720px;
+    padding: 0;
+    /* background-color: hsl(0, 0%, 94%); */
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px){
+  .owncontainer {
+    margin: auto;
+    max-width: 1000px;
+    padding: 0;
+    /* background-color: hsl(0, 0%, 94%); */
+  }}
+  @media (min-width: 1201px) {
+  .owncontainer {
+    margin: auto;
+    max-width: 1350px;
+    padding: 0;
+    /* background-color: hsl(0, 0%, 94%); */
+  }
+}
